@@ -5,12 +5,16 @@
 
 ### 比赛数据
 <details><summary><b>1、金融信息负面及主体判定比赛数据集</b></summary>
-  l 任务描述：该任务分为两个子任务：<br>
+  1. 任务描述：该任务分为两个子任务：<br>
 给定一条金融文本和文本中出现的金融实体列表，<br>
 （1）负面信息判定：判定该文本是否包含金融实体的负面信息。如果该文本不包含负面信息，或者包含负面信息但负面信息未涉及到金融实体，则负面信息判定结果为0。<br>
 （2）负面主体判定：如果任务1中包含金融实体的负面信息，继续判断负面信息的主体对象是实体列表中的哪些实体。<br>
-  
-  l 数据集地址：https://www.datafountain.cn/competitions/353
+  <br>
+  2. 数据集地址：https://www.datafountain.cn/competitions/353<br>
+  <br>
+
+
+
 </details>
 
 <details><summary><b>2、CCKS-NEC-金融领域的因果事件要素抽取</b></summary>
